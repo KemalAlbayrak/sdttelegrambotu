@@ -4,6 +4,7 @@ from threading import Thread
 from web3 import Web3
 from web3.auto import w3
 import time
+web: python chatbot2deneme.py
 
 
 
