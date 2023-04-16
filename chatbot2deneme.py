@@ -1,8 +1,6 @@
 from datetime import datetime
 import requests
-import tkinter as tk
 from threading import Thread
-import module1
 from web3 import Web3
 from web3.auto import w3
 import time
