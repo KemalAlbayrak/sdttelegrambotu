@@ -1,6 +1,6 @@
 web: python chatbot2deneme.py
 worker: python worker.py
-web: gunicorn chatbot2deneme:app
+web: gunicorn sdttelegrambotu:app
 heroku ps:scale web=1
 
 
